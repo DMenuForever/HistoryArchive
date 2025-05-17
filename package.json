@@ -1,0 +1,12 @@
+{
+  "name": "simple-bittorrent-tracker",
+  "version": "1.0.0",
+  "description": "Basic HTTP BitTorrent tracker for Render deployment",
+  "main": "tracker.js",
+  "scripts": {
+    "start": "node tracker.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
